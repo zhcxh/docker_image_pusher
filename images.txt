@@ -8,3 +8,4 @@ superng6/qbittorrent
 p3terx/aria2-pro
 whyour/qinglong
 jeessy/ddns-go
+mcr.microsoft.com/mssql/server:2017-latest
