@@ -17,3 +17,6 @@ haishanh/yacd:latest
 corentinth/it-tools:latest
 allanpk716/chinesesubfinder:latest
 dko0/squoosh:latest
+doctorpangloss/nut:latest
+superng6/qbittorrentee:latest
+superng6/aria2:a2b-latest
