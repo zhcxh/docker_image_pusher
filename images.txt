@@ -31,3 +31,4 @@ lscr.io/linuxserver/radarr:latest
 lscr.io/linuxserver/sonarr:latest
 neosmemo/memos:stable
 linzeyi/hivision_idphotos:latest
+rustdesk/rustdesk-server:latest
